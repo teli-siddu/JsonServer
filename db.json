@@ -194,6 +194,123 @@
        "CommissionPct":null,
        "ManagerId":100,
        "DepartmentId":30
+    },
+    {
+       "EmployeeId":115,
+       "FirstName":"Alexander",
+       "LastName":"Khoo",
+       "Email":"AKHOO",
+       "PhoneNumber":"515.127.4562",
+       "HireDate":"1995-05-18T00:00:00",
+       "JobId":"PU_CLERK",
+       "Salary":3100.00,
+       "CommissionPct":null,
+       "ManagerId":114,
+       "DepartmentId":30
+    },
+    {
+       "EmployeeId":116,
+       "FirstName":"Shelli",
+       "LastName":"Baida",
+       "Email":"SBAIDA",
+       "PhoneNumber":"515.127.4563",
+       "HireDate":"1997-12-24T00:00:00",
+       "JobId":"PU_CLERK",
+       "Salary":2900.00,
+       "CommissionPct":null,
+       "ManagerId":114,
+       "DepartmentId":30
+    },
+    {
+       "EmployeeId":117,
+       "FirstName":"Sigal",
+       "LastName":"Tobias",
+       "Email":"STOBIAS",
+       "PhoneNumber":"515.127.4564",
+       "HireDate":"1997-07-24T00:00:00",
+       "JobId":"PU_CLERK",
+       "Salary":2800.00,
+       "CommissionPct":null,
+       "ManagerId":114,
+       "DepartmentId":30
+    },
+    {
+       "EmployeeId":118,
+       "FirstName":"Guy",
+       "LastName":"Himuro",
+       "Email":"GHIMURO",
+       "PhoneNumber":"515.127.4565",
+       "HireDate":"1998-11-15T00:00:00",
+       "JobId":"PU_CLERK",
+       "Salary":2600.00,
+       "CommissionPct":null,
+       "ManagerId":114,
+       "DepartmentId":30
+    },
+    {
+       "EmployeeId":119,
+       "FirstName":"Karen",
+       "LastName":"Colmenares",
+       "Email":"KCOLMENA",
+       "PhoneNumber":"515.127.4566",
+       "HireDate":"1999-08-10T00:00:00",
+       "JobId":"PU_CLERK",
+       "Salary":2500.00,
+       "CommissionPct":null,
+       "ManagerId":114,
+       "DepartmentId":30
+    },
+    {
+       "EmployeeId":120,
+       "FirstName":"Matthew",
+       "LastName":"Weiss",
+       "Email":"MWEISS",
+       "PhoneNumber":"650.123.1234",
+       "HireDate":"1996-07-18T00:00:00",
+       "JobId":"ST_MAN",
+       "Salary":8000.00,
+       "CommissionPct":null,
+       "ManagerId":100,
+       "DepartmentId":50
+    },
+    {
+       "EmployeeId":121,
+       "FirstName":"Adam",
+       "LastName":"Fripp",
+       "Email":"AFRIPP",
+       "PhoneNumber":"650.123.2234",
+       "HireDate":"1997-04-10T00:00:00",
+       "JobId":"ST_MAN",
+       "Salary":8200.00,
+       "CommissionPct":null,
+       "ManagerId":100,
+       "DepartmentId":50
+    },
+    {
+       "EmployeeId":122,
+       "FirstName":"Payam",
+       "LastName":"Kaufling",
+       "Email":"PKAUFLIN",
+       "PhoneNumber":"650.123.3234",
+       "HireDate":"1995-05-01T00:00:00",
+       "JobId":"ST_MAN",
+       "Salary":7900.00,
+       "CommissionPct":null,
+       "ManagerId":100,
+       "DepartmentId":50
+    },
+    {
+       "EmployeeId":123,
+       "FirstName":"Shanta",
+       "LastName":"Vollman",
+       "Email":"SVOLLMAN",
+       "PhoneNumber":"650.123.4234",
+       "HireDate":"1997-10-10T00:00:00",
+       "JobId":"ST_MAN",
+       "Salary":6500.00,
+       "CommissionPct":null,
+       "ManagerId":100,
+       "DepartmentId":50
     }
  ],
  "depts":[
@@ -234,18 +351,6 @@
      "LocationId":1400
   },
   {
-     "DepartmentId":70,
-     "DepartmentName":"Public Relations",
-     "ManagerId":204,
-     "LocationId":2700
-  },
-  {
-     "DepartmentId":80,
-     "DepartmentName":"Sales",
-     "ManagerId":145,
-     "LocationId":2500
-  },
-  {
      "DepartmentId":90,
      "DepartmentName":"Executive",
      "ManagerId":100,
@@ -262,102 +367,9 @@
      "DepartmentName":"Accounting",
      "ManagerId":205,
      "LocationId":1700
-  },
-  {
-     "DepartmentId":120,
-     "DepartmentName":"Treasury",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":130,
-     "DepartmentName":"Corporate Tax",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":140,
-     "DepartmentName":"Control And Credit",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":150,
-     "DepartmentName":"Shareholder Services",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":160,
-     "DepartmentName":"Benefits",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":170,
-     "DepartmentName":"Manufacturing",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":180,
-     "DepartmentName":"Construction",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":190,
-     "DepartmentName":"Contracting",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":200,
-     "DepartmentName":"Operations",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":210,
-     "DepartmentName":"IT Support",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":220,
-     "DepartmentName":"NOC",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":230,
-     "DepartmentName":"IT Helpdesk",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":240,
-     "DepartmentName":"Government Sales",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":250,
-     "DepartmentName":"Retail Sales",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":260,
-     "DepartmentName":"Recruiting",
-     "ManagerId":null,
-     "LocationId":1700
-  },
-  {
-     "DepartmentId":270,
-     "DepartmentName":"Payroll",
-     "ManagerId":null,
-     "LocationId":1700
   }
+
 ]
+
+
 }
