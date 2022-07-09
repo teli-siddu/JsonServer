@@ -2,199 +2,199 @@
    "employees": [
       {
          "id": 1,
-         "Employeeid": 100,
+         "EmployeeId": 100,
          "FirstName": "Steven",
          "LastName": "King",
          "Email": "SKING",
          "PhoneNumber": "515.123.4567",
          "HireDate": "1987-06-17T00:00:00",
-         "Jobid": "AD_PRES",
+         "JobId": "AD_PRES",
          "Salary": 24000.00,
          "CommissionPct": null,
-         "Managerid": null,
-         "Departmentid": 90
+         "ManagerId": null,
+         "DepartmentId": 90
       },
       {
          "id": 2,
-         "Employeeid": 101,
+         "EmployeeId": 101,
          "FirstName": "Neena",
          "LastName": "Kochhar",
          "Email": "NKOCHHAR",
          "PhoneNumber": "515.123.4568",
          "HireDate": "1989-09-21T00:00:00",
-         "Jobid": "AD_VP",
+         "JobId": "AD_VP",
          "Salary": 17000.00,
          "CommissionPct": null,
-         "Managerid": 100,
-         "Departmentid": 90
+         "ManagerId": 100,
+         "DepartmentId": 90
       },
       {
          "id": 3,
-         "Employeeid": 102,
+         "EmployeeId": 102,
          "FirstName": "Lex",
          "LastName": "De Haan",
          "Email": "LDEHAAN",
          "PhoneNumber": "515.123.4569",
          "HireDate": "1993-01-13T00:00:00",
-         "Jobid": "AD_VP",
+         "JobId": "AD_VP",
          "Salary": 17000.00,
          "CommissionPct": null,
-         "Managerid": 100,
-         "Departmentid": 90
+         "ManagerId": 100,
+         "DepartmentId": 90
       },
       {
          "id": 4,
-         "Employeeid": 103,
+         "EmployeeId": 103,
          "FirstName": "Alexander",
          "LastName": "Hunold",
          "Email": "AHUNOLD",
          "PhoneNumber": "590.423.4567",
          "HireDate": "1990-01-03T00:00:00",
-         "Jobid": "IT_PROG",
+         "JobId": "IT_PROG",
          "Salary": 9000.00,
          "CommissionPct": null,
-         "Managerid": 102,
-         "Departmentid": 60
+         "ManagerId": 102,
+         "DepartmentId": 60
       },
       {
          "id": 5,
-         "Employeeid": 104,
+         "EmployeeId": 104,
          "FirstName": "Bruce",
          "LastName": "Ernst",
          "Email": "BERNST",
          "PhoneNumber": "590.423.4568",
          "HireDate": "1991-05-21T00:00:00",
-         "Jobid": "IT_PROG",
+         "JobId": "IT_PROG",
          "Salary": 6000.00,
          "CommissionPct": null,
-         "Managerid": 103,
-         "Departmentid": 60
+         "ManagerId": 103,
+         "DepartmentId": 60
       },
       {
          "id": 6,
-         "Employeeid": 105,
+         "EmployeeId": 105,
          "FirstName": "David",
          "LastName": "Austin",
          "Email": "DAUSTIN",
          "PhoneNumber": "590.423.4569",
          "HireDate": "1997-06-25T00:00:00",
-         "Jobid": "IT_PROG",
+         "JobId": "IT_PROG",
          "Salary": 4800.00,
          "CommissionPct": null,
-         "Managerid": 103,
-         "Departmentid": 60
+         "ManagerId": 103,
+         "DepartmentId": 60
       },
       {
          "id": 7,
-         "Employeeid": 106,
+         "EmployeeId": 106,
          "FirstName": "Valli",
          "LastName": "Pataballa",
          "Email": "VPATABAL",
          "PhoneNumber": "590.423.4560",
          "HireDate": "1998-02-05T00:00:00",
-         "Jobid": "IT_PROG",
+         "JobId": "IT_PROG",
          "Salary": 4800.00,
          "CommissionPct": null,
-         "Managerid": 103,
-         "Departmentid": 60
+         "ManagerId": 103,
+         "DepartmentId": 60
       },
       {
          "id": 8,
-         "Employeeid": 107,
+         "EmployeeId": 107,
          "FirstName": "Diana",
          "LastName": "Lorentz",
          "Email": "DLORENTZ",
          "PhoneNumber": "590.423.5567",
          "HireDate": "1999-02-07T00:00:00",
-         "Jobid": "IT_PROG",
+         "JobId": "IT_PROG",
          "Salary": 4200.00,
          "CommissionPct": null,
-         "Managerid": 103,
-         "Departmentid": 60
+         "ManagerId": 103,
+         "DepartmentId": 60
       },
       {
          "id": 9,
-         "Employeeid": 108,
+         "EmployeeId": 108,
          "FirstName": "Nancy",
          "LastName": "Greenberg",
          "Email": "NGREENBE",
          "PhoneNumber": "515.124.4569",
          "HireDate": "1994-08-17T00:00:00",
-         "Jobid": "FI_MGR",
+         "JobId": "FI_MGR",
          "Salary": 12000.00,
          "CommissionPct": null,
-         "Managerid": 101,
-         "Departmentid": 100
+         "ManagerId": 101,
+         "DepartmentId": 100
       },
       {
          "id": 10,
-         "Employeeid": 109,
+         "EmployeeId": 109,
          "FirstName": "Daniel",
          "LastName": "Faviet",
          "Email": "DFAVIET",
          "PhoneNumber": "515.124.4169",
          "HireDate": "1994-08-16T00:00:00",
-         "Jobid": "FI_ACCOUNT",
+         "JobId": "FI_ACCOUNT",
          "Salary": 9000.00,
          "CommissionPct": null,
-         "Managerid": 108,
-         "Departmentid": 100
+         "ManagerId": 108,
+         "DepartmentId": 100
       }
    ],
    "depts": [
       {
-         "Departmentid": 10,
+         "DepartmentId": 10,
          "DepartmentName": "Administration",
-         "Managerid": 200,
-         "Locationid": 1700
+         "ManagerId": 200,
+         "LocationId": 1700
       },
       {
-         "Departmentid": 20,
+         "DepartmentId": 20,
          "DepartmentName": "Marketing",
-         "Managerid": 201,
-         "Locationid": 1800
+         "ManagerId": 201,
+         "LocationId": 1800
       },
       {
-         "Departmentid": 30,
+         "DepartmentId": 30,
          "DepartmentName": "Purchasing",
-         "Managerid": 114,
-         "Locationid": 1700
+         "ManagerId": 114,
+         "LocationId": 1700
       },
       {
-         "Departmentid": 40,
+         "DepartmentId": 40,
          "DepartmentName": "Human Resources",
-         "Managerid": 203,
-         "Locationid": 2400
+         "ManagerId": 203,
+         "LocationId": 2400
       },
       {
-         "Departmentid": 50,
+         "DepartmentId": 50,
          "DepartmentName": "Shipping",
-         "Managerid": 121,
-         "Locationid": 1500
+         "ManagerId": 121,
+         "LocationId": 1500
       },
       {
-         "Departmentid": 60,
+         "DepartmentId": 60,
          "DepartmentName": "IT",
-         "Managerid": 103,
-         "Locationid": 1400
+         "ManagerId": 103,
+         "LocationId": 1400
       },
       {
-         "Departmentid": 90,
+         "DepartmentId": 90,
          "DepartmentName": "Executive",
-         "Managerid": 100,
-         "Locationid": 1700
+         "ManagerId": 100,
+         "LocationId": 1700
       },
       {
-         "Departmentid": 100,
+         "DepartmentId": 100,
          "DepartmentName": "Finance",
-         "Managerid": 108,
-         "Locationid": 1700
+         "ManagerId": 108,
+         "LocationId": 1700
       },
       {
-         "Departmentid": 110,
+         "DepartmentId": 110,
          "DepartmentName": "Accounting",
-         "Managerid": 205,
-         "Locationid": 1700
+         "ManagerId": 205,
+         "LocationId": 1700
       }
    ]
 }
